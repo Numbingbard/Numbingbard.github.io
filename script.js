@@ -4,7 +4,7 @@ document.getElementById('addCharacterBtn').addEventListener('click', function() 
         alert('Please enter a character name.');
         return;
     }
-
+aa
     const table = document.getElementById('characterTable');
     const headerRow = table.rows[0];
     const subHead   = table.rows[1];
